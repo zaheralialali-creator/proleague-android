@@ -1,0 +1,12 @@
+{
+  "appId": "com.proleague961.app",
+  "appName": "ProLeague",
+  "webDir": "www",
+  "server": {
+    "url": "https://proleague961.com",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
